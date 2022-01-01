@@ -1,3 +1,4 @@
 {
-  "launch":{"reward":"50","player":"","collaboration":""}
+  "launch":{"reward":"50","player":"","collaboration":""},
+  "aston":{"reward":"100","player":"","collaboration":"ASTON"}
 }
