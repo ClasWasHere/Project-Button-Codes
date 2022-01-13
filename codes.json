@@ -1,5 +1,6 @@
 {
   "launch":{"reward":"50","player":"","collaboration":""},
   "aston":{"reward":"100","player":"","collaboration":"aston"},
-  "emilior":{"reward":"100","player":"","collaboration":"emilior"}
+  "emilior":{"reward":"100","player":"","collaboration":"emilior"},
+  "darkerror":{"reward":"100","player":"","collaboration":"DarkError"}
 }
